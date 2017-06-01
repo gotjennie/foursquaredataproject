@@ -102,3 +102,4 @@ ENV/
 
 # user added
 *.dat
+*.csv
