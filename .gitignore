@@ -103,3 +103,4 @@ ENV/
 # user added
 *.dat
 *.csv
+config.json
