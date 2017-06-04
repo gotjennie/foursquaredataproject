@@ -104,3 +104,5 @@ ENV/
 *.dat
 *.csv
 config.json
+*.pickle
+*.txt
