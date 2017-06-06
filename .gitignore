@@ -106,3 +106,5 @@ ENV/
 config.json
 *.pickle
 *.txt
+*.shp
+*.shx
